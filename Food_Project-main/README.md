@@ -54,14 +54,4 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
   <br>
 </center>
 
-### Home
-<center>
-  <img src="IMG_git/Home.png"/>
-  <br>
-</center>
-
-
-
-
-
 
